@@ -1,0 +1,1 @@
+tweets from people are modeled into a term-document matrix and clustered to define a boundary of non-normal behavior activity
